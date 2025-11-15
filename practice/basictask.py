@@ -24,6 +24,5 @@
 # opr=input("enter your operator:")
 # if opr=='+':
 #     return num1+num2
-a=0
-print("hey lara")
+
 
